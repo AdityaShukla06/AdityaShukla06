@@ -2,7 +2,6 @@
 - 👀 I’m interested in Machine Learning and AI
 - 🌱 I’m currently learning Machine Learning using Python
 - 💞️ I’m looking to collaborate on Open Source python and AI projects
-- 📫 YOU CAN REACH ME THROUGH MY EMAIL:- adityashukla1346@gmail.com
 
 <!---
 AdityaShukla06/AdityaShukla06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
