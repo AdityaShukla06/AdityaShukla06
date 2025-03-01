@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AdityaShukla06
-- 👀 I’m interested in Machine Learning and AI
-- 🌱 I’m currently learning Machine Learning using Python
+- 👀 I’m interested in Machine Learning and AI. Fluent in Python, and SQL.
+- 🌱 I’m currently learning FullStack Web Development and DSA
 - 💞️ I’m looking to collaborate on Open Source python and AI projects
 
 <!---
