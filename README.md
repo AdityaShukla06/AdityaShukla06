@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aditya Shukla</h1>
 <h3 align="center">Bridging Code and Intelligence: Passionate About AI, ML, and Modern Web Technologies</h3>
 
-- 🌱 I’m currently learning **AI, ML, DSA and Web Development**
+-  I’m currently learning **AI, ML, DSA and Web Development**
 
-- 🤝 I’m looking for help with **Machine Learning Algorithms and AI Agents**
+-  I’m looking for help with **Machine Learning Algorithms and AI Agents**
 
-- 📫 How to reach me **adityashukla1346@gmail.com**
+-  Reach me at: **adityashukla1346@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
